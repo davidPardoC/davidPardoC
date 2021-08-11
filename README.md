@@ -1,4 +1,6 @@
-### Hi there 👋 I'm David Ernesto Pardo Cuenca
+<h1 align="center">Hi there 👋 I'm David Ernesto Pardo Cuenca</h1>
+<h3 align="center">A passionate web developer from Ecuador 🇪🇨</h3>
+
 
 - 🔭 I’m currently working on Trading Platforms and CRM's as Frontend Developer (Angular).
 - 🔭 Also I’m currently working on my own pryect called Handy.
