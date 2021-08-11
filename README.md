@@ -5,6 +5,11 @@
 - 💬 Ask me about HTML, CSS, Javascript, React, React Native, Angular and NodeJS.
 - 📫 How to reach me: pardodavid10@gmail.com
 
+#### Languajes and tools
+![image](https://user-images.githubusercontent.com/43886292/129050805-eb0d8de6-836f-4eda-8ac0-630d74448cb7.png)
+![image](https://user-images.githubusercontent.com/43886292/129050890-01ce9e10-1c02-4ba1-b562-0152b95608b1.png)
+![image](https://user-images.githubusercontent.com/43886292/129050987-e591bcd2-31a2-49ba-9fe3-170d6d19e3ec.png)
+
 <!--
 **davidPardoC/davidPardoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
