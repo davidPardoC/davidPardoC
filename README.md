@@ -15,6 +15,9 @@
 <img src="https://user-images.githubusercontent.com/43886292/129053643-a2471ba7-f1f4-4286-a4dd-f7051f2451eb.png" width="50" height='50'>
    <!--Nest -->
 <img src="https://user-images.githubusercontent.com/43886292/129053888-33198973-3fc5-4819-b92d-cbdc89f0f8af.png" width="50">
+   <!--Node -->
+<img src="https://user-images.githubusercontent.com/43886292/129054138-0b0b29ca-3590-400a-bee2-56a6674ecb95.png" width="50">
+<img src="https://user-images.githubusercontent.com/43886292/129054345-5d74f739-3118-4e33-8948-2d19b9e431fd.png" width="50">
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidPardoC)](https://github.com/anuraghazra/github-readme-stats)
