@@ -12,7 +12,7 @@
 <img src="https://user-images.githubusercontent.com/43886292/129050987-e591bcd2-31a2-49ba-9fe3-170d6d19e3ec.png" width="50">
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidPardoC)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **davidPardoC/davidPardoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
