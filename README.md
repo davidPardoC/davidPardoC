@@ -10,8 +10,11 @@
 <p>
 <img src="https://user-images.githubusercontent.com/43886292/129050805-eb0d8de6-836f-4eda-8ac0-630d74448cb7.png" width="50">
 <img src="https://user-images.githubusercontent.com/43886292/129050890-01ce9e10-1c02-4ba1-b562-0152b95608b1.png" width="50">
-<img src="https://user-images.githubusercontent.com/43886292/129050987-e591bcd2-31a2-49ba-9fe3-170d6d19e3ec.png" width="50">
+<img src="https://user-images.githubusercontent.com/43886292/129050987-e591bcd2-31a2-49ba-9fe3-170d6d19e3ec.png" width="50">ç
+ <!--Firebase -->
 <img src="https://user-images.githubusercontent.com/43886292/129053643-a2471ba7-f1f4-4286-a4dd-f7051f2451eb.png" width="50" height='50'>
+   <!--Nest -->
+<img src="https://user-images.githubusercontent.com/43886292/129053888-33198973-3fc5-4819-b92d-cbdc89f0f8af.png" width="50">
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidPardoC)](https://github.com/anuraghazra/github-readme-stats)
