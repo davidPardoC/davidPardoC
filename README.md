@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Trading Platforms and CRM's as Frontend Developer (Angular)
 - 🌱 I’m currently learning NestJS
-- 💬 Ask me about HTML, CSS, Javascript, React and NodeJS.
+- 💬 Ask me about HTML, CSS, Javascript, React, React Native, Angular and NodeJS.
 - 📫 How to reach me: pardodavid10@gmail.com
 
 <!--
