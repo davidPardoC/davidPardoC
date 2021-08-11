@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm David Ernesto Pardo Cuenca
 
-- 🔭 I’m currently working on Trading Platforms and CRM's as Frontend Developer (Angular)
-- 🌱 I’m currently learning NestJS
+- 🔭 I’m currently working on Trading Platforms and CRM's as Frontend Developer (Angular).
+- 🔭 Also I’m currently working on my own pryect called Handy.
+- 🌱 I’m currently learning NestJS.
 - 💬 Ask me about HTML, CSS, Javascript, React, React Native, Angular and NodeJS.
 - 📫 How to reach me: pardodavid10@gmail.com
 
