@@ -2,12 +2,13 @@
 <h3 align="center">A passionate web developer from Ecuador 🇪🇨</h3>
 
 
+
 - 🔭 I’m currently working on Trading Platforms and CRM's as Frontend Developer (Angular).
 - 🔭 Also I’m currently working on my own pryect called Handy.
 - 🌱 I’m currently learning NestJS.
 - 💬 Ask me about HTML, CSS, Javascript, React, React Native, Angular and NodeJS.
 - 📫 How to reach me: pardodavid10@gmail.com
-
+ 
 #### Languajes and tools
 <p>
 <img src="https://user-images.githubusercontent.com/43886292/129050805-eb0d8de6-836f-4eda-8ac0-630d74448cb7.png" width="50">
