@@ -3,10 +3,10 @@
 
 
 
-- 🔭 I’m currently working on Trading Platforms and CRM's as Frontend Developer (Angular).
+- 🔭 I’m currently working at Rappi as a Software Developer.
 - 🔭 Also I’m currently working on my own proyect called Handy.
 - 🌱 I’m currently learning NestJS.
-- 💬 Ask me about HTML, CSS, Javascript, React, React Native, Angular and NodeJS.
+- 💬 Ask me about HTML, CSS, Javascript, React, React Native, Angular and NodeJS, NextJs.
 - 📫 How to reach me: pardodavid10@gmail.com
  
 #### Languajes and tools
