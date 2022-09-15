@@ -1,13 +1,14 @@
 <h1 align="center">Hi there 👋 I'm David Ernesto Pardo Cuenca</h1>
-<h3 align="center">A passionate web developer from Ecuador 🇪🇨</h3>
+<h3 align="center">A passionate Software Developer from Ecuador 🇪🇨</h3>
 
 
 
 - 🔭 I’m currently working at Rappi as a Software Developer.
 - 🔭 Also I’m currently working on my own proyect called Handy.
-- 🌱 I’m currently learning NestJS.
+- 🌱 I’m currently learning Microservice Architecture.
 - 💬 Ask me about HTML, CSS, Javascript, React, React Native, Angular and NodeJS, NextJs.
 - 📫 How to reach me: pardodavid10@gmail.com
+- 📃 Web Page Portfolio: https://davidpardo.vercel.app/
  
 #### Languajes and tools
 <p>
