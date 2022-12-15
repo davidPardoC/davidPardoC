@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Rappi as a Software Developer.
 - 🔭 Also I’m currently working on my own proyect called Handy.
-- 🌱 I’m currently learning Microservice Architecture.
+- 🌱 I’m currently learning Go.
 - 💬 Ask me about HTML, CSS, Javascript, React, React Native, Angular and NodeJS, NextJs.
 - 📫 How to reach me: pardodavid10@gmail.com
 - 📃 Web Page Portfolio: https://davidpardo.vercel.app/
