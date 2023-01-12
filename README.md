@@ -25,6 +25,8 @@ I'm a software developer that loves to build highly scalable systems. I like to 
    <!--Node -->
 <img src="https://user-images.githubusercontent.com/43886292/129054935-c99bc379-a02b-4907-90de-526298b57b72.png" width="50">
 <img src="https://user-images.githubusercontent.com/43886292/129054639-36e2ce72-4316-49c3-8edf-a8beefe737d5.png" width="50">
+<img src="https://pbs.twimg.com/profile_images/1599829788369113089/FrdYoQ1o_400x400.jpg" width="50">
+ 
  
 
 </p>
