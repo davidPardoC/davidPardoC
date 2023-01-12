@@ -31,6 +31,8 @@ I'm a software developer that loves to build highly scalable systems. I like to 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
+[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/avgupta456/langs](https://api.githubtrends.io/user/svg/davidPardoC/repos?time_range=one_year&group=other&theme=classic))](https://githubtrends.io)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidPardoC)](https://git.io/streak-stats)
 <!--
