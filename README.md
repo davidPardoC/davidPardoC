@@ -30,14 +30,8 @@ I'm a software developer that loves to build highly scalable systems. I like to 
 </p>
 
 <p>
-
- <img src="https://api.githubtrends.io/user/svg/avgupta456/langs" width="50">
-<img src="https://api.githubtrends.io/user/svg/davidPardoC/repos?time_range=one_year&group=other&theme=classic" width="50">
- 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/davidPardoC/repos?time_range=one_year&group=other&theme=classic)](https://githubtrends.io)
-
+<img src="https://api.githubtrends.io/user/svg/avgupta456/langs" width="100">
+<img src="https://api.githubtrends.io/user/svg/davidPardoC/repos?time_range=one_year&group=other&theme=classic" width="100">
 </p>
 
 
