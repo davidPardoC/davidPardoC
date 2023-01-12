@@ -29,7 +29,7 @@ I'm a software developer that loves to build highly scalable systems. I like to 
 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidpardoc&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidPardoC)](https://github.com/anuraghazra/github-readme-stats)
 
