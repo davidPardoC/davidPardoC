@@ -10,7 +10,7 @@
 - 📫 How to reach me: pardodavid10@gmail.com
 - 📃 Web Page Portfolio: https://davidpardo.vercel.app/
 
-I'm a software developer that loves to build highly scalable systems. I like to build apps from scratch thinking about all the architecture and the implication of technical decisions .  My career path is fully focused on Software Engineering , my current stack is heavily based on **Javascript / Typescript**  including **React, Node , Cypress , MongoDB** but I also like to work with other technologies like Python. Also I have been working with some cloud services like **AWS (EC2 , S3)** and **Firebase** for serverless apps.
+I'm a software developer that loves to build highly scalable systems. I like to build apps from scratch thinking about all the architecture and the implication of technical decisions . My career path is fully focused on Software Engineering , my current stack is heavily based on Javascript / Typescript including React, Node , Cypress , MongoDB but I also like to work with other technologies like Go. Also I have been working with some cloud services like AWS (EC2 , S3) and Firebase for serverless apps.
 
  
 #### Languajes and tools
