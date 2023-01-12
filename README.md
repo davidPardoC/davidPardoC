@@ -32,6 +32,8 @@ I'm a software developer that loves to build highly scalable systems. I like to 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidPardoC)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidPardoC)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidPardoC)](https://git.io/streak-stats)
 <!--
 **davidPardoC/davidPardoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
