@@ -30,8 +30,8 @@ I'm a software developer that loves to build highly scalable systems. I like to 
 </p>
 
 <p>
-<img src="https://api.githubtrends.io/user/svg/avgupta456/langs" width="250">
-<img src="https://api.githubtrends.io/user/svg/davidPardoC/repos?time_range=one_year&group=other&theme=classic" width="250">
+<img src="https://api.githubtrends.io/user/svg/avgupta456/langs" width="300">
+<img src="https://api.githubtrends.io/user/svg/davidPardoC/repos?time_range=one_year&group=other&theme=classic" width="300">
 </p>
 
 
