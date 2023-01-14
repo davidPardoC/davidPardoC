@@ -31,7 +31,7 @@ I'm a software developer that loves to build highly scalable systems. I like to 
 
 <a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davidPardoC&theme=react&line_height=40&hide=css"/> </a>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidPardoC)](https://git.io/streak-stats)
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ <a href=""> <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=react&line_height=40&hide=css"/> </a>
 <!--
 **davidPardoC/davidPardoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
