@@ -29,14 +29,7 @@ I'm a software developer that loves to build highly scalable systems. I like to 
  
  
 
-</p>
-
-<p>
-<img src="https://api.githubtrends.io/user/svg/davidPardoC/langs" width="300">
-<img src="https://api.githubtrends.io/user/svg/davidPardoC/repos?time_range=one_year&group=other&theme=classic" width="300">
-</p>
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidPardoC)](https://git.io/streak-stats)
 <!--
