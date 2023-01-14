@@ -29,7 +29,7 @@ I'm a software developer that loves to build highly scalable systems. I like to 
  
  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![davidPardoC's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidPardoC)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidPardoC)](https://git.io/streak-stats)
 <!--
