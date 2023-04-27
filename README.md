@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working at Rappi as a Software Developer.
-- 🔭 Also I’m currently working on my own open source proyect called Checky.
+- 🔭 Also I’m currently working on my own open source project called Checky.
 - 🌱 I’m currently learning Go.
 - 💬 Ask me about HTML, CSS, Javascript, React, React Native, NextJs and NodeJS.
 - 📫 How to reach me: pardodavid10@gmail.com
