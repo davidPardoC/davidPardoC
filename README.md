@@ -1,52 +1,30 @@
-<h1 align="center">Hi there 👋 I'm David Ernesto Pardo Cuenca</h1>
-<h3 align="center">A passionate Software Developer from Ecuador 🇪🇨</h3>
+<h1 align="center">Hi 👋, I'm David Pardo</h1>
+<h3 align="center">A passionate software developer from Ecuador</h3>
 
+- 🔭 I’m currently working on **Rappi**
 
+- 🌱 I’m currently learning **Go**
 
-- 🔭 I’m currently working at Rappi as a Software Developer.
-- 🔭 Also I’m currently working on my own open source project called Open Chat PDF.
-- 🌱 I’m currently learning Go.
-- 💬 Ask me about HTML, CSS, Javascript, React, React Native, NextJs and NodeJS.
-- 📫 How to reach me: pardodavid10@gmail.com
-- 📃 Web Page Portfolio: https://davidpardo.dev/
+- 👯 I’m looking to collaborate on **Open Source projects based on Javascript and Python**
 
-I'm a software developer that loves to build highly scalable systems. I like to build apps from scratch thinking about all the architecture and the implication of technical decisions . My career path is fully focused on Software Engineering , my current stack is heavily based on Javascript / Typescript including React, Node , Cypress , MongoDB but I also like to work with other technologies like Go. Also I have been working with some cloud services like AWS (EC2 , S3) and Firebase for serverless apps.
+- 👨‍💻 All of my projects are available at [https://www.davidpardo.dev/projects](https://www.davidpardo.dev/projects)
 
- 
-#### Languajes and tools
-<p>
-<img src="https://user-images.githubusercontent.com/43886292/129050805-eb0d8de6-836f-4eda-8ac0-630d74448cb7.png" width="50">
-<img src="https://user-images.githubusercontent.com/43886292/129050890-01ce9e10-1c02-4ba1-b562-0152b95608b1.png" width="50">
-<img src="https://user-images.githubusercontent.com/43886292/129050987-e591bcd2-31a2-49ba-9fe3-170d6d19e3ec.png" width="50">
- <!--Firebase -->
-<img src="https://user-images.githubusercontent.com/43886292/129053643-a2471ba7-f1f4-4286-a4dd-f7051f2451eb.png" width="50" height='50'>
-   <!--Nest -->
-<img src="https://user-images.githubusercontent.com/43886292/129053888-33198973-3fc5-4819-b92d-cbdc89f0f8af.png" width="50">
-   <!--Node -->
-<img src="https://user-images.githubusercontent.com/43886292/129054935-c99bc379-a02b-4907-90de-526298b57b72.png" width="50">
-<img src="https://user-images.githubusercontent.com/43886292/129054639-36e2ce72-4316-49c3-8edf-a8beefe737d5.png" width="50">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKOge03nqPIDS34IQhUnZBWoaSZGdemaa9wFcgUBkR&s" width="50">
- 
- 
- 
+- 💬 Ask me about **React, Next.Js, Node, Python**
 
-<p>
-<a href=""> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=davidPardoC&theme=react&line_height=40&hide=css"/> </a>
-<a href=""> <img src="https://github-readme-stats.vercel.app/api?username=davidPardoC&theme=react&line_height=40&hide=css"/> </a>
+- 📫 How to reach me **pardodavid10@gmail.com**
+
+- 📄 Know about my experiences [https://www.davidpardo.dev/experience](https://www.davidpardo.dev/experience)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/david-pardo-996999153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-pardo-996999153/" height="30" width="40" /></a>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidPardoC)](https://git.io/streak-stats)
-<!--
-**davidPardoC/davidPardoC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidpardoc&show_icons=true&locale=en&layout=compact" alt="davidpardoc" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidpardoc&show_icons=true&locale=en" alt="davidpardoc" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidpardoc&" alt="davidpardoc" /></p>
