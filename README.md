@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Rappi<br>🌱 I’m currently learning Go<br>👯 I’m looking to collaborate on Open Source projects based on Javascript and Python<br>👨‍💻 All of my projects are available at https://www.davidpardo.dev/projects<br>💬 Ask me about React, Next.Js, Node, Python<br>📫 How to reach me pardodavid10@gmail.com<br>📄 Know about my experiences https://www.davidpardo.dev/experience
+🔭 I’m currently working at Rappi<br>🌱 I’m currently learning Go<br>👯 I’m looking to collaborate on Open Source projects based on Javascript, Typescript and Python<br>👨‍💻 All of my projects are available at https://www.davidpardo.dev/projects<br>💬 Ask me about React, Next.Js, Node, Python<br>📫 How to reach me pardodavid10@gmail.com<br>📄 Know about my experiences https://www.davidpardo.dev/experience
 
 
 ## 🌐 Socials:
