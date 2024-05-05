@@ -10,7 +10,9 @@
 # 📊 GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidPardoC&show_icons=true&theme=dark&hide_title=true)<br/>
 ![](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=davidPardoC&include_orgs=true&show_icons=true&theme=nightowl&locale=en&hide_border=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=davidPardoC&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=davidPardoC&theme=tokyonight&hide_border=true)<br/>}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpardoc)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=davidPardoC&limit=5&theme=dark&combine_all_yearly_contributions=true)
